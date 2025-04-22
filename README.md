@@ -47,10 +47,7 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANKITA-TAE&theme=radical" alt="GitHub Trophies">
-</p>
+
 
 
 <div id="header" align="center">
