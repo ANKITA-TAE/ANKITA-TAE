@@ -3,7 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hello, Forks !;I'm+Ankita+Patra" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">CV Engineer wielding the power of data analysis to decode patterns, fuel intelligence, and shape the future of machine vision.</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&height=30&lines=Hello+%F0%9F%91%8B%2C+I'm+a+girl+who+codes+%F0%9F%92%BB%F0%9F%92%81%EF%B8%8F;Turning+coffee+%E2%98%95%EF%B8%8F+into+AI+magic+%F0%9F%94%A5;Dreaming+in+code+and+conquering+algorithms+%F0%9F%A4%96" alt="Typing SVG" />
+</h3>
+
 
 
 ## 🛠️ Languages and Tools:  
