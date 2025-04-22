@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/d04c608f-dcc4-4277-ba2c-1f4f3cea4d5a?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hello, Forks !;I'm+Ankita+Patra" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/d04c608f-dcc4-4277-ba2c-1f4f3cea4d5a+Hello, Forks !;I'm+Ankita+Patra" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
