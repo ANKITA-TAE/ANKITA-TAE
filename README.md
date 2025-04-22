@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/d04c608f-dcc4-4277-ba2c-1f4f3cea4d5a+Hello, Forks !;I'm+Ankita+Patra" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/d04c608f-dcc4-4277-ba2c-1f4f3cea4d5a" />
 </h1>
 
 <h3 align="center">
