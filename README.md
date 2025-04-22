@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/d04c608f-dcc4-4277-ba2c-1f4f3cea4d5a" />
-</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d04c608f-dcc4-4277-ba2c-1f4f3cea4d5a" alt="coding" width="400"/>
+</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&height=30&lines=Hello+%F0%9F%91%8B%2C+I'm+a+girl+who+codes+%F0%9F%92%BB%F0%9F%92%81%EF%B8%8F;Turning+coffee+%E2%98%95%EF%B8%8F+into+AI+magic+%F0%9F%94%A5;Dreaming+in+code+and+conquering+algorithms+%F0%9F%A4%96" alt="Typing SVG" />
