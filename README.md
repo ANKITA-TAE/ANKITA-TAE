@@ -17,7 +17,6 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge&theme=radical" alt="Python" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge&theme=radical" alt="TensorFlow" /></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white&style=for-the-badge&theme=radical" alt="PyTorch" /></a>
- 
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge&theme=radical" alt="Pandas" /></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=for-the-badge&theme=radical" alt="NumPy" /></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?logo=python&logoColor=black&style=for-the-badge&theme=radical" alt="Matplotlib" /></a>
@@ -29,10 +28,7 @@
   <a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-%23DFE216.svg?logo=lightgbm&logoColor=black&style=for-the-badge&theme=radical" alt="LightGBM" /></a>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white&style=for-the-badge&theme=radical" alt="OpenCV" /></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge&theme=radical" alt="Streamlit" /></a>
- 
- 
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white&style=for-the-badge&theme=radical" alt="Flask" /></a>
-  
   <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-%23000000.svg?logo=ethereum&logoColor=white&style=for-the-badge&theme=radical" alt="Solidity" /></a>
   
 </p>
