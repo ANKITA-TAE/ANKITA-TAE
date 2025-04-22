@@ -14,9 +14,12 @@
 <p align="left">
   <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge&theme=radical" alt="C" /></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge&theme=radical" alt="C++" /></a>
+  <a href="https://www.w3schools.com/java/">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+</a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge&theme=radical" alt="Python" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge&theme=radical" alt="TensorFlow" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white&style=for-the-badge&theme=radical" alt="PyTorch" /></a>
+ c
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge&theme=radical" alt="Pandas" /></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=for-the-badge&theme=radical" alt="NumPy" /></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?logo=python&logoColor=black&style=for-the-badge&theme=radical" alt="Matplotlib" /></a>
